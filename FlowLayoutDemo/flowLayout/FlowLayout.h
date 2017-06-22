@@ -43,7 +43,7 @@
  */
 @property (nonatomic,strong,readonly) NSMutableArray *rowHightList;
 /**
- *  view之间的横行间距
+ *  view之间的横向间距
  */
 @property (nonatomic,assign) CGFloat horizontalSpace;
 /**
