@@ -53,7 +53,7 @@
 <tr>
 <td>rowList</td>
 <td>计算后每一行的view，只读</td>	
-<td>NSMutableArray（UIView）</td>	
+<td>NSMutableArray（NSMutableArray（UIView））</td>	
 </tr>
 <tr>
 <td>rowHightList</td>
